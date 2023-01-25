@@ -15,6 +15,10 @@ Generate static build:
 
 `npm run build`
 
+Publish to GitHub Pages with:
+
+`git subtree push --prefix dist origin gh-pages`
+
 ## Intellectual Property Rights
 
 The content of this repository is copyrighted by the Open Geospatial Consortium (OGC) and may be [licensed](https://github.com/opengeospatial/er_template/blob/master/LICENSE) for designated purposes.
